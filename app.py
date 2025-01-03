@@ -818,3 +818,4 @@ if st.session_state.get('data'):
         )
     else:
         st.subheader("No data available to download.")
+        
